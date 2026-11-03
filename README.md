@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rainfall Analysis & Rain Prediction System
 
 A production-ready rain-prediction dashboard for farmers & growers. It turns
@@ -126,3 +127,6 @@ The dashboard now starts with a Supabase Authentication screen. Users can create
 4. Run `npm install` and `npm.cmd run dev`.
 
 **Security note:** this change gates the frontend dashboard with Supabase sign-in. The existing SQL migration currently allows public access to rainfall tables and the Edge Function has `verify_jwt = false`; before deploying this as a genuinely private multi-user service, tighten the table RLS policies and validate authenticated users in the backend as well. Never put a Supabase service-role key in the frontend.
+=======
+# RAINFALL-PRED
+>>>>>>> d04ffcc7648ddf5ce4ede741b841fa2484d8e0d9
