@@ -1,0 +1,9 @@
+{
+  "projectId": "72362503",
+  "functions": {
+    "rain-predict": {
+      "hasChanged": false,
+      "hash": "f892388d2ab2def0f9bca831a0fd39d75258095b8af35b2c41f39dfff86e6ead"
+    }
+  }
+}
